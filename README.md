@@ -8,10 +8,6 @@
 
 一款集成了主流大语言模型以及绘图模型的 APP， 采用 Flutter 开发，代码完全开源。
 
-下载体验地址：
-
-https://aidea.aicode.cc
-
 开源代码：
 
 - 客户端：https://github.com/mylxsw/aidea
@@ -36,19 +32,6 @@ git checkout v1.x
 
 不想自己折腾，可以找我来帮你部署，详情参考 [服务器代部署说明](https://github.com/mylxsw/aidea-server/blob/main/docs/deploy-vip.md)。
 
-## 技术交流
-
-- 微信技术交流群：
-
-    <img src="https://github.com/user-attachments/assets/379d0b66-b806-4ed4-ae2e-30fccd9de50e" width="400"/>
-
-    如果无法加入，请添加微信号 `x-prometheus` 为好友，拉你进群。
-
-- 微信公众号
-
-    <img src="https://github.com/mylxsw/aidea-server/assets/2330911/376a3b9f-eacd-45c6-9630-39eb720ba097" width="500" />
-
-
 ## APP 截图
 
 亮色系
@@ -59,7 +42,6 @@ git checkout v1.x
 
 ![image](https://github.com/mylxsw/aidea/assets/2330911/7c0167eb-4bd3-4dcb-8b7b-a6d22cebe3ae)
 
-
 ## Star History
 
 <a href="https://star-history.com/#mylxsw/aidea&Date">
@@ -69,9 +51,3 @@ git checkout v1.x
     <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=mylxsw/aidea&type=Date" />
   </picture>
 </a>
-
-## License
-
-MIT
-
-Copyright (c) 2023, mylxsw
