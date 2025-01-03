@@ -41,13 +41,3 @@ git checkout v1.x
 暗色系
 
 ![image](https://github.com/mylxsw/aidea/assets/2330911/7c0167eb-4bd3-4dcb-8b7b-a6d22cebe3ae)
-
-## Star History
-
-<a href="https://star-history.com/#mylxsw/aidea&Date">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=mylxsw/aidea&type=Date&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=mylxsw/aidea&type=Date" />
-    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=mylxsw/aidea&type=Date" />
-  </picture>
-</a>
